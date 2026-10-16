@@ -1,0 +1,9 @@
+{
+  "name": "mjward",
+  "version": "0.1.0",
+  "description": "Agent skills by Matt Ward, starting with reply-like-me",
+  "author": {
+    "name": "Matt Ward",
+    "url": "https://github.com/mjward"
+  }
+}

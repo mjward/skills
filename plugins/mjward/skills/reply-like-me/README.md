@@ -9,10 +9,15 @@ never writes PRs, code, commit messages or technical documents.
 
 ## Install
 
-Copy this folder into your skills folder:
+In Claude Code 2.1.275 or later:
 
-- Claude Code: `~/.claude/skills/reply-like-me/`
-- Cursor: `~/.cursor/skills/reply-like-me/`
+```
+/plugin install mjward --marketplace mjward/skills
+```
+
+In older versions, run `/plugin marketplace add mjward/skills`, then
+`/plugin install mjward@mjward-skills`. In Cursor, copy this folder into
+`~/.cursor/skills/reply-like-me/`. Start a new session afterwards.
 
 You also need:
 
