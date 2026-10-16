@@ -1,0 +1,17 @@
+{
+  "name": "mjward-skills",
+  "owner": {
+    "name": "Matt Ward",
+    "email": "164789+mjward@users.noreply.github.com"
+  },
+  "metadata": {
+    "description": "Agent skills for Claude Code and Cursor"
+  },
+  "plugins": [
+    {
+      "name": "mjward",
+      "source": "./plugins/mjward",
+      "description": "reply-like-me: learns how you write from your chat, email and docs, then drafts your replies in your voice"
+    }
+  ]
+}
